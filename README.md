@@ -10,3 +10,6 @@ a specialized package that includes platform-specific implementation code for
 Android and iOS.
 
 It is a demo to demonstrate publication for a flutter package to pub.dev
+
+
+[![pub package](https://img.shields.io/pub/v/my_plugin.svg)](https://pub.dev/packages/my_plugin)
