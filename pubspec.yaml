@@ -1,7 +1,8 @@
 name: flutter_pets
 description: "A new Flutter plugin project."
 version: 0.0.1+1
-homepage:
+repository: https://github.com/your_github/my_plugin
+issue_tracker: https://github.com/your_github/my_plugin/issues
 
 environment:
   sdk: ^3.7.0
