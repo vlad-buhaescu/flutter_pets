@@ -1,8 +1,8 @@
 name: flutter_pets
 description: "A Flutter plugin project to demonstrate pub.dev publication"
-version: 0.0.1+1
-repository: https://github.com/your_github/my_plugin
-issue_tracker: https://github.com/your_github/my_plugin/issues
+version: 0.0.1+2
+repository: https://github.com/vlad-buhaescu/flutter_pets
+issue_tracker: https://github.com/vlad-buhaescu/flutter_pets/issues
 
 environment:
   sdk: ^3.7.0
